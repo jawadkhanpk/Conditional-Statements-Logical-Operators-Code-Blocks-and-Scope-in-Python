@@ -6,7 +6,7 @@
 # 12 under ticket must be $5,
 # between 12-18 ticket must be $7,
 # 18 over ticket must be $12
-# if wants photo taken add $5 to the bill
+# if wants photo taken add $3 to the bill
 
 print("Welcome to a Rollercoaster!")
 height = int(input("Please Enter Your Height: "))
